@@ -4,7 +4,6 @@ import styles from "./Footer.module.css";
 import { AiFillGitlab } from "react-icons/ai";
 import { AiFillInstagram } from "react-icons/ai";
 import { AiFillMail } from "react-icons/ai";
-import { AiFillLinkedin } from "react-icons/ai";
 
 const Footer = () => (
   <div className={styles.footer}>
